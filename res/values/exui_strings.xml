@@ -552,7 +552,7 @@
 
     <!-- Screen off fod -->
     <string name="fod_gesture_title">Screen off fingerprint</string>
-    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
+    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first (May not work on some devices)</string>
 
     <!-- Nightlight Fod -->
     <string name="fod_night_light_title">Disable night light when showing FOD</string>
